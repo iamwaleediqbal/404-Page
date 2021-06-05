@@ -38,8 +38,8 @@
 
 - You can find out the demo by going to https://iamwaleediqbal.github.io/404-Page/.
 - It was a great learning experience with simple html and css scripts to make a mobile responsive web app as you can see below screenshot from a phone and laptop browser 
-- Mobile View <img src = "https://github.com/iamwaleediqbal/404-Page/blob/main/404-Page-main/Screenshots/404_mobile.PNG" width = "50%"/>
--  PC Browser View <img src = "https://github.com/iamwaleediqbal/404-Page/blob/main/404-Page-main/Screenshots/404.PNG" width = "50%"/>
+- Mobile View <img src = "https://github.com/iamwaleediqbal/404-Page/blob/main/Screenshots/404_mobile.PNG" width = "50%"/>
+-  PC Browser View <img src = "https://github.com/iamwaleediqbal/404-Page/blob/main/Screenshots/404.PNG" width = "50%"/>
 
 
 ## Features
